@@ -1,8 +1,11 @@
-# Vagrant Share CHANGELOG
+# Private Vagrant Plugin CHANGELOGs
 
-Vagrant Share is not an open source component of Vagrant. As such, it
-is tricky to see what changes are made in subsequent versions of it.
-This repository maintains a CHANGELOG that will be updated along with
-the vagrant-share updates.
+This repository contains CHANGELOGs for the Vagrant plugins developed by
+HashiCorp that aren't open source. This repository contains the CHANGELOGs
+for three projects currently:
 
-See CHANGELOG.md.
+  * vagrant-login
+  * vagrant-share
+  * vagrant-vmware-fusion and vagrant-vmware-workstation
+
+See the appropriate CHANGELOG file for more information.
