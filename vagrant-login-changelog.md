@@ -1,4 +1,4 @@
-## 1.0.1 (unreleased)
+## 1.0.1 (March 13, 2014)
 
   - Cleaner error messages if we can't communicate to Vagrant Cloud.
 
