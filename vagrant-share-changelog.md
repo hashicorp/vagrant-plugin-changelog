@@ -3,6 +3,7 @@
   - command/connect: If a URL is given as a name, show a nicer human-friendly
       error.
   - command/share: Fix help output to point to proper flag.
+  - core: Nicer error message if an error is on the server side.
 
 ## 1.0.1 (March 13, 2014)
 
