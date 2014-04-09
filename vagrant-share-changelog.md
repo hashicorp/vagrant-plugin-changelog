@@ -4,6 +4,8 @@
       error.
   - command/share: Fix help output to point to proper flag.
   - core: Nicer error message if an error is on the server side.
+  - core: Functionality to use custom domains for Vagrant Private Cloud
+      installations.
 
 ## 1.0.1 (March 13, 2014)
 
