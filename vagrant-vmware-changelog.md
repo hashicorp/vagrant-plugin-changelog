@@ -1,9 +1,11 @@
-## 2.4.0 (unreleased)
+## 2.4.0 (May 1, 2014)
 
   - core: Improve parallelism under Vagrant 1.6 with process-level locking
       for certain situations.
   - core: Remove some custom locking if Vagrant 1.6+ is being used, since
       Vagrant 1.6 does this automatically in core.
+  - core: Priority is higher than VirtualBox so it defaults to that
+      in Vagrant 1.6.
 
 ## 2.3.6 (April 5, 2014)
 
