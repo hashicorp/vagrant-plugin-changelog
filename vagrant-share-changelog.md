@@ -3,6 +3,7 @@
   - command/connect: If a URL is given as a name, show a nicer human-friendly
       error.
   - command/share: Fix help output to point to proper flag.
+  - command/share: Support custom domains and static name flags.
   - core: Nicer error message if an error is on the server side.
   - core: Functionality to use custom domains
   - core: Support Vagrant Private Cloud

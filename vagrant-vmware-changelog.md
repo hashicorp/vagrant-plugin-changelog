@@ -1,3 +1,8 @@
+## 2.5.0 (unreleased)
+
+  - core: Vagrantfiles with private networks with string "type" values
+      will no longer crash.
+
 ## 2.4.0 (May 1, 2014)
 
   - core: Improve parallelism under Vagrant 1.6 with process-level locking
