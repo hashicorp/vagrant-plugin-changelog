@@ -1,4 +1,4 @@
-## 1.1.0 (unreleased)
+## 1.1.0 (May 29, 2014)
 
   - command/connect: If a URL is given as a name, show a nicer human-friendly
       error.
