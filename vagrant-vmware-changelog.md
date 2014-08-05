@@ -1,7 +1,9 @@
-## 2.5.0 (unreleased)
+## 2.5.0 (August 5, 2014)
 
   - core: Vagrantfiles with private networks with string "type" values
       will no longer crash.
+  - fusion: Groundwork for Fusion 7
+  - fusion: Fusion Tech Preview support for Yosemite
 
 ## 2.4.0 (May 1, 2014)
 
