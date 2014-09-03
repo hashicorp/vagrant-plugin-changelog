@@ -1,3 +1,8 @@
+## 3.0.0 (September 3, 2014)
+
+  - fusion: enable Fusion 7 support with valid license
+  - workstation: groundwork for Workstation 11
+
 ## 2.5.0 (August 5, 2014)
 
   - core: Vagrantfiles with private networks with string "type" values
