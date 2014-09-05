@@ -1,3 +1,9 @@
+## 3.0.1 (September 4, 2014)
+
+  - core: Attempt to use `vmrun` to find guest IP address in parallel to
+      watching the DHCP leases file. The result is more robust IP
+      detection.
+
 ## 3.0.0 (September 3, 2014)
 
   - fusion: enable Fusion 7 support with valid license
