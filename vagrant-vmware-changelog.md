@@ -1,4 +1,4 @@
-## 3.1.0 (unreleased)
+## 3.1.0 (October 24, 2014)
 
   - core: Cleaner exiting when interrupted.
   - core: Fix infinite vmnet retry loop on route conflict.
