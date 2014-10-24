@@ -1,3 +1,11 @@
+## 3.1.0 (unreleased)
+
+  - core: Cleaner exiting when interrupted.
+  - core: Fix infinite vmnet retry loop on route conflict.
+  - core: Halt, suspend, etc. will not fatally error if the VM is not
+      created.
+  - fusion: Try DHCP leases backup file to detect IP as well.
+
 ## 3.0.1 (September 4, 2014)
 
   - core: Attempt to use `vmrun` to find guest IP address in parallel to
