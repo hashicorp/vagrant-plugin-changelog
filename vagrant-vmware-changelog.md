@@ -4,7 +4,11 @@
   - core: Fix infinite vmnet retry loop on route conflict.
   - core: Halt, suspend, etc. will not fatally error if the VM is not
       created.
+  - core: On OS X, ask for admin privs using the dialog rather than sudo.
+  - fusion: Upgrade dialog will not appear anymore for VMware.
   - fusion: Try DHCP leases backup file to detect IP as well.
+  - workstation: Not an error on Linux if the vmware-networks script doesn't
+      support the --configure flag.
 
 ## 3.0.1 (September 4, 2014)
 
