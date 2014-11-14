@@ -1,3 +1,7 @@
+## 3.1.2 (November 14, 2014)
+
+  - core: Fix a bug where IPV6 addresses were parsed as IPV4
+
 ## 3.1.1 (November 14, 2014)
 
   - core: Fix a logging bug that was producing misleading information during
