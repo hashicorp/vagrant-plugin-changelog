@@ -1,3 +1,9 @@
+## 3.1.1 (November 14, 2014)
+
+  - core: Fix a logging bug that was producing misleading information during
+    debugging
+  - core: More gracefully handle invalid IP addresses returned from VMware
+
 ## 3.1.0 (October 24, 2014)
 
   - core: Cleaner exiting when interrupted.
