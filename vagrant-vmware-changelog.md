@@ -1,3 +1,11 @@
+## 3.2.0 (January 5, 2015)
+
+  - core: invalid IP addresses returned by `vmrun` are ignored
+  - core: static IPs work for _public_ networks (private networks have
+      always works)
+  - fusion,workstation: symlinks are always enabled on shared folders
+  - fusion,workstation: support UDP forwarded ports
+
 ## 3.1.2 (November 14, 2014)
 
   - core: Fix a bug where IPV6 addresses were parsed as IPV4
