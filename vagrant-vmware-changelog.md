@@ -1,3 +1,13 @@
+## 3.2.1 (February 6, 2015)
+
+  - core: (OS X) fall back to sudo if osascript-based privilege escalation
+      for installing `sudo_helper` fails for any reason
+  - fusion,workstation: fix addSharedFolder side-effect causing symlinks to
+      become disabled when multiple shared folders are used
+  - fusion,workstation: new provider config `enable_vmrun_ip_lookup`, defaults
+      to `true`, allows `vmrun getGuestIpAddress` to be manually skipped to
+      work around cases where it returns an incorrect address
+
 ## 3.2.0 (January 5, 2015)
 
   - core: invalid IP addresses returned by `vmrun` are ignored
