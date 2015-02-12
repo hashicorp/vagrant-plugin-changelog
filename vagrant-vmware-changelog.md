@@ -1,3 +1,12 @@
+## 3.2.2 (February 12, 2015)
+
+ - synced_folders: revert symlink-specific code; recent versions of Fusion and
+     Workstation handle symlinks properly without any additional configuration;
+     incorporating workaround docs for users on older versions of VMWare
+     software that have trouble with symlinks
+ - workstation-windows: fix slash mismatch preventing multi-vm port forwarding
+     from working properly
+
 ## 3.2.1 (February 6, 2015)
 
   - core: (OS X) fall back to sudo if osascript-based privilege escalation
