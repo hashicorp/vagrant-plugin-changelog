@@ -1,3 +1,7 @@
+## 3.2.2 (February 17, 2015)
+
+ - core: additional sanity checks during box clone
+
 ## 3.2.2 (February 12, 2015)
 
  - synced_folders: revert symlink-specific code; recent versions of Fusion and
