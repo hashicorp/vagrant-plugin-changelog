@@ -1,4 +1,4 @@
-## 3.2.2 (February 17, 2015)
+## 3.2.3 (February 17, 2015)
 
  - core: additional sanity checks during box clone
 
