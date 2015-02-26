@@ -1,3 +1,8 @@
+## 3.2.4 (February 26, 2015)
+
+ - workstation-windows: fix another port-forwarding bug causing issues with
+   port collisions on subsequent boots
+
 ## 3.2.3 (February 17, 2015)
 
  - core: additional sanity checks during box clone
