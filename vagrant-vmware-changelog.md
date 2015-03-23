@@ -1,3 +1,9 @@
+## 3.2.4 (March 23, 2015)
+
+ - workstation-linux: properly reconfigure host `vmnet` devices; fixes
+     incorrect VMware configs being generated when Vagrant needed to add a
+     network device to the host.
+
 ## 3.2.4 (February 26, 2015)
 
  - workstation-windows: fix another port-forwarding bug causing issues with
