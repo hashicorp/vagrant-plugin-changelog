@@ -1,4 +1,4 @@
-## 3.2.4 (March 23, 2015)
+## 3.2.5 (March 23, 2015)
 
  - workstation-linux: properly reconfigure host `vmnet` devices; fixes
      incorrect VMware configs being generated when Vagrant needed to add a
