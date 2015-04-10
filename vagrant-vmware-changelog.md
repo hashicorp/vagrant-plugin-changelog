@@ -1,3 +1,9 @@
+## 3.2.6 (March 23, 2015)
+
+ - nfs: modify the strategy for choosing the guest / host IP address for NFS
+     configuration to avoid issues selecting the proper IP address when using
+     NFS synced_folders with private_networks
+
 ## 3.2.5 (March 23, 2015)
 
  - workstation-linux: properly reconfigure host `vmnet` devices; fixes
