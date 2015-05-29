@@ -1,3 +1,9 @@
+## 3.2.7 (May 29, 2015)
+
+ - core: fix public networks with static ips; they were incorrectly being marked
+     as `type: :dhcp`, causing the assigned IP not to be respected
+ - synced_folders: improve error message when ssh info cannot be determined
+
 ## 3.2.6 (March 23, 2015)
 
  - nfs: modify the strategy for choosing the guest / host IP address for NFS
