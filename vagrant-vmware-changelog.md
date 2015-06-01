@@ -1,3 +1,9 @@
+## 3.2.8 (May 29, 2015)
+
+ - nat_conf: detect and repair a type of nat conf corruption caused by certain
+   combinations of previously released versions of VMware, Vagrant, and the
+   Vagrant VMware plugin (See: https://github.com/mitchellh/vagrant/issues/5600)
+
 ## 3.2.7 (May 29, 2015)
 
  - core: fix public networks with static ips; they were incorrectly being marked
