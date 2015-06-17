@@ -1,3 +1,8 @@
+## 3.2.9 (June 17, 2015)
+
+ - hgfs: fix an issue with the `:group` option of HGFS `synced_folder`s, which
+   was causing it to only work with group names that were also usernames.
+
 ## 3.2.8 (June 1, 2015)
 
  - nat_conf: detect and repair a type of nat conf corruption caused by certain
