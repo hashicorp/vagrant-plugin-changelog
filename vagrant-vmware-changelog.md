@@ -1,3 +1,10 @@
+## 3.2.10 (July 27, 2015)
+
+  - core: adjust timeout to 45 seconds and raise a more human-friendly error
+  - core: do not error when trying to destroy a non-created VM
+  - core: allow users to use `VAGRANT_VMWARE_FUSION_EXP` for experimental VMware
+    Fusion support again
+
 ## 3.2.9 (June 17, 2015)
 
  - hgfs: fix an issue with the `:group` option of HGFS `synced_folder`s, which
