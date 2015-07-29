@@ -1,3 +1,8 @@
+## 3.2.11 (July 29, 2015)
+
+  - hgfs: fall back to legacy `:group` behavior when `getent` based lookup
+    does not succeed
+
 ## 3.2.10 (July 27, 2015)
 
   - core: adjust timeout to 45 seconds and raise a more human-friendly error
