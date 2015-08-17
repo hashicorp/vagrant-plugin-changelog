@@ -1,3 +1,9 @@
+## 3.2.12 (August 17, 2015)
+
+  - core: Increase retries when looking up guest IP address for communicator
+    info from 5 to 10. We continue to do linear backoff, meaning we'll wait for
+    up to 55 seconds for an IP to be available.
+
 ## 3.2.11 (July 29, 2015)
 
   - hgfs: fall back to legacy `:group` behavior when `getent` based lookup
