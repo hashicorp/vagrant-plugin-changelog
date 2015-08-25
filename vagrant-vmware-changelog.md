@@ -1,3 +1,13 @@
+## 4.0.1 (August 25, 2015)
+
+  - workstation: fix for version parsing code preventing the plugin from
+    booting with Workstation 12 on Windows
+
+## 4.0.0 (August 25, 2015)
+
+  - fusion: enable Fusion 8 support with valid license
+  - workstation: enable Workstation 12 with valid license
+
 ## 3.2.12 (August 17, 2015)
 
   - core: Increase retries when looking up guest IP address for communicator
