@@ -1,3 +1,11 @@
+## 4.0.2 (October 12, 2015)
+
+  - core: fix a nil exception that can happen when the user interrupts
+    (ctrl + c)
+  - workstation: fix a bug that would cause an exception to be printed
+    when the version of Workstation was newer than what the license
+    permitted
+
 ## 4.0.1 (August 25, 2015)
 
   - workstation: fix for version parsing code preventing the plugin from
