@@ -1,3 +1,14 @@
+## 4.0.4 (December 21, 2015)
+
+  - core: perform a normal VM clone if the linked clone fails - this
+    accounts for the case where the user does not have a VMware
+    product that supports linked clones (such as the non-PRO versions)
+
+## 4.0.3 (December 14, 2015)
+
+  - core: run provisioner cleanup tasks
+  - core: add support for encoding on Ruby 2.1 and 2.2
+
 ## 4.0.2 (October 12, 2015)
 
   - core: fix a nil exception that can happen when the user interrupts
