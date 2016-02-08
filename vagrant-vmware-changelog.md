@@ -1,3 +1,8 @@
+## 4.0.7 (February 8, 2016)
+
+  - core: correct default for `verify_vmnet` boolean provider config option. In
+    4.0.6 it was incorrectly defaulted to `false`. It now defaults to `true`.
+
 ## 4.0.6 (January 6, 2016)
 
   - core: add `verify_vmnet` boolean provider config option. Disabling vmnet device verification might in some cases allow Vagrant to boot machines in a mostly-working state, skipping checks that would proactively bail out. This is an advanced option for which HashiCorp can only provide limited support.
