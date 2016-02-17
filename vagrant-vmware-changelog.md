@@ -1,3 +1,9 @@
+## 4.0.8 (February 17, 2016)
+
+  - core: Implement `nic_mac_addresses` provider capability, enables support
+    for Darwin guests on Vagrant 1.8+.
+    (See: https://github.com/mitchellh/vagrant/issues/6792)
+
 ## 4.0.7 (February 8, 2016)
 
   - core: correct default for `verify_vmnet` boolean provider config option. In
