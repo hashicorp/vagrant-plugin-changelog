@@ -1,3 +1,8 @@
+## 1.2.0 (Unreleased)
+
+  - Remove virtualbox public_network capability to prevent clobbering
+      (mitchellh/vagrant#6729).
+
 ## 1.1.0 (May 29, 2014)
 
   - command/connect: If a URL is given as a name, show a nicer human-friendly
