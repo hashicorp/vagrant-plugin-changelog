@@ -1,3 +1,9 @@
+## 4.0.11 (August 29, 2016)
+
+  - core: use consistent path formatting to properly match results provided within
+    `vmrun list` output.
+    (See: https://github.com/mitchellh/vagrant/issues/5838)
+
 ## 4.0.8 (February 17, 2016)
 
   - core: Implement `nic_mac_addresses` provider capability, enables support
