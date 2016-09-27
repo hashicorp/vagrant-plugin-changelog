@@ -1,3 +1,7 @@
+## 4.0.12 (September 27, 2016)
+
+  - core: rebuild go binaries with go 1.7 to properly support macOS Sierra
+
 ## 4.0.11 (August 29, 2016)
 
   - core: use consistent path formatting to properly match results provided within
