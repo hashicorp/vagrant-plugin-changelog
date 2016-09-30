@@ -1,3 +1,8 @@
+## 4.0.13 (September 30, 2016)
+
+  - core: fix setuid usage within sudo wrapper.
+    (See: https://github.com/mitchellh/vagrant/issues/7839)
+
 ## 4.0.12 (September 27, 2016)
 
   - core: rebuild go binaries with go 1.7 to properly support macOS Sierra
