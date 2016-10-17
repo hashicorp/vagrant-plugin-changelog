@@ -1,3 +1,12 @@
+## 4.0.14 (October 14, 2016)
+
+  - linux/shared_folders: Only emit upstart event on mount if upstart is in use.
+  - linux/shared_folders: Update hgfs mount strategy for open-vm-tools to properly
+    handle symlink usage.
+    (See: https://github.com/mitchellh/vagrant/issues/7599 https://github.com/mitchellh/vagrant/issues/5474)
+  - linux/shared_folders: Automatically unmount `/mnt/hgfs` if present on guest. Include
+    configuration option to disable (`config.vm.unmount_default_hgfs = false`).
+
 ## 4.0.13 (September 30, 2016)
 
   - core: fix setuid usage within sudo wrapper.
@@ -5,7 +14,7 @@
 
 ## 4.0.12 (September 27, 2016)
 
-  - core: rebuild go binaries with go 1.7 to properly support macOS Sierra
+  - core: rebuild go binaries with go 1.7 to properly support macOS Sierra.
 
 ## 4.0.11 (August 29, 2016)
 
