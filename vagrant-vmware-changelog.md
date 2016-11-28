@@ -1,3 +1,7 @@
+## 4.0.15 (November 28, 2016)
+
+  - core: properly load in Vagrant versions >= 1.9.0
+
 ## 4.0.14 (October 14, 2016)
 
   - linux/shared_folders: Only emit upstart event on mount if upstart is in use.
