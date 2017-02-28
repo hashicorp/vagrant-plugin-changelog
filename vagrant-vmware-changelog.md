@@ -1,3 +1,13 @@
+## 4.0.17 (February 28, 2017)
+
+  - core: Fix file access issue on certain installations
+
+## 4.0.16 (February 27, 2017)
+
+  - core: Persist NAT configuration and repair if rewritten
+  - core: Check IP address returned from vmrun and discard if invalid
+  - core: Support linked clones
+
 ## 4.0.15 (November 28, 2016)
 
   - core: properly load in Vagrant versions >= 1.9.0
