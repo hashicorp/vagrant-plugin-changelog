@@ -1,3 +1,7 @@
+## 4.0.18 (March 3, 2017)
+
+  - core: Disable ethernet VMX whitelist and enable warnings
+
 ## 4.0.17 (February 28, 2017)
 
   - core: Fix file access issue on certain installations
