@@ -1,3 +1,9 @@
+## 4.0.20
+
+  - core: Detect Bundler in sudo wrapper and run setup
+  - core: Wait for network to become available when forwarding ports
+  - core: Add configurable option to wait for network stabilization
+
 ## 4.0.18 (March 3, 2017)
 
   - core: Disable ethernet VMX whitelist and enable warnings
