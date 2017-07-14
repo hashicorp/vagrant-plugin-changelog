@@ -1,3 +1,9 @@
+## 4.0.21
+
+  - core: Fix privilege escalation issue within sudo helper
+    Thanks to Mark Wadham (https://m4.rkw.io/blog.html) for
+    identifying and reporting this issue.
+
 ## 4.0.20
 
   - core: Detect Bundler in sudo wrapper and run setup
