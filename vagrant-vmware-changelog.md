@@ -1,3 +1,7 @@
+## 4.0.22
+
+  - core: Fixes plugin startup failure on macOS 10.12
+
 ## 4.0.21
 
   - core: Fix privilege escalation issue within sudo helper
