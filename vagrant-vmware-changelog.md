@@ -1,3 +1,7 @@
+## 4.0.23
+
+  - core: Prevent loading of user defined files within sudo helper.
+
 ## 4.0.22
 
   - core: Fixes plugin startup failure on macOS 10.12
