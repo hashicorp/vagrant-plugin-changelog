@@ -1,3 +1,11 @@
+## 4.0.25
+
+  - core: Update sudo helper implementation to restrict access
+  - core: Update Windows to no longer require Administrator privileges
+    for normal usage.
+  - core: Fix port forward collision bugs where deleted ports are
+    automatically re-added to the nat configuration.
+
 ## 4.0.23
 
   - core: Prevent loading of user defined files within sudo helper.
