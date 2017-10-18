@@ -1,3 +1,7 @@
+## 5.0.0
+
+  - core: Add support for VMware Fusion 10 and VMware Workstation 14
+
 ## 4.0.25
 
   - core: Update sudo helper implementation to restrict access
