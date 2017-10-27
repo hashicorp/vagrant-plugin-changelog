@@ -1,3 +1,10 @@
+## 5.0.1
+
+  - core: Provide useful error when VMware utility task fails on Windows
+  - core: Fix executable path generation on Windows
+  - core: Automatically fix data and lock file permissions if encountered
+  - core: Use local port forward for SSH connect
+
 ## 5.0.0
 
   - core: Add support for VMware Fusion 10 and VMware Workstation 14
