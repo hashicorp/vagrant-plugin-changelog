@@ -1,3 +1,9 @@
+## 5.0.2
+
+  - core: Remove osascript usage on darwin
+  - core: Fix username pathing issues on Windows
+  - core: Fix installation setup on some Linux platforms
+
 ## 5.0.1
 
   - core: Provide useful error when VMware utility task fails on Windows
