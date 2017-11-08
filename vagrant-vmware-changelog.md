@@ -1,3 +1,7 @@
+## 5.0.3
+
+  - core: Resolve cross-link errors on installation
+
 ## 5.0.2
 
   - core: Remove osascript usage on darwin
