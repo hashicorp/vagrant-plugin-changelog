@@ -1,3 +1,9 @@
+## 5.0.4
+
+  - core: Include VMware path validations
+  - core: Prevent helper task AC requirement on Windows
+  - core: Update username filtering during Windows installations
+
 ## 5.0.3
 
   - core: Resolve cross-link errors on installation
