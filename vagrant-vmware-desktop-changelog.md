@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Fix Vagrantfile configuration loading race condition
+
 ## 1.0.1
 
 - Detect and remove any previously installed workstation or fusion plugins
