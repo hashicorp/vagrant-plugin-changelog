@@ -1,3 +1,8 @@
+## 1.0.3
+
+- Fix utility checkpoint check
+- Only run license check once per command invocation
+
 ## 1.0.2
 
 - Fix Vagrantfile configuration loading race condition
