@@ -1,3 +1,8 @@
+## 1.0.4
+
+- Support running within Windows Subsystem for Linux
+- Request vmnet verification if supported by utility
+
 ## 1.0.3
 
 - Fix utility checkpoint check
