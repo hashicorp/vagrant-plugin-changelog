@@ -1,3 +1,8 @@
+## 1.0.3
+
+- Fix service install command for sysv
+- Provide better DHCP lease handling on service re-configure
+
 ## 1.0.2
 
 - Reduce Windows event logging noise
