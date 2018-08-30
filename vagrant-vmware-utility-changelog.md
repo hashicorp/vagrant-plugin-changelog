@@ -1,3 +1,8 @@
+## 1.0.4
+
+- Automatically fix registry permissions when state is incorrect
+- Ignore invalid port forward description fields
+
 ## 1.0.3
 
 - Fix service install command for sysv
