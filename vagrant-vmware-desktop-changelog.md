@@ -1,3 +1,7 @@
+## 2.0.0
+
+- Updates for Fusion 11 and Workstation 15
+
 ## 1.0.4
 
 - Support running within Windows Subsystem for Linux
