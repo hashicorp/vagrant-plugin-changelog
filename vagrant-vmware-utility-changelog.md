@@ -1,3 +1,9 @@
+## 1.0.5
+
+- Retain network device ownership and permissions when configuring
+  networks on Linux platforms
+- Add support for DHCP reservations
+
 ## 1.0.4
 
 - Automatically fix registry permissions when state is incorrect
