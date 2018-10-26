@@ -1,3 +1,9 @@
+## 2.0.1
+
+- Timeout soft VM stops to prevent hanging
+- Add support for defining MAC address for NAT interface
+- Add support for reserving IP address for NAT interface
+
 ## 2.0.0
 
 - Updates for Fusion 11 and Workstation 15
