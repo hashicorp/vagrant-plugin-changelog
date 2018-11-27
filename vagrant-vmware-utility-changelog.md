@@ -1,3 +1,7 @@
+## 1.0.6
+
+- Fix permission issue with macOS installer
+
 ## 1.0.5
 
 - Retain network device ownership and permissions when configuring
