@@ -1,3 +1,8 @@
+## 2.0.2
+
+- Properly validate provider configuration
+- Fix race condition on VM halt action
+
 ## 2.0.1
 
 - Timeout soft VM stops to prevent hanging
