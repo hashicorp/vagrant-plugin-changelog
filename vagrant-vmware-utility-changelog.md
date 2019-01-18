@@ -1,3 +1,10 @@
+## 1.0.7
+
+- Update launchd configuration to listen on localhost only
+- Prevent VMware installation check during uninstall on Windows
+- Add support for faster additions of port forwards
+- Optimize port forward pruning behavior
+
 ## 1.0.6
 
 - Fix permission issue with macOS installer
