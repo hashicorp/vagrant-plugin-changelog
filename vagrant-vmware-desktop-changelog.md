@@ -1,3 +1,9 @@
+## 2.0.3
+
+- Fix synced folder UID and GID parsing
+- Fix state check on guest stop validation
+- Support faster port forwarding when available
+
 ## 2.0.2
 
 - Properly validate provider configuration
