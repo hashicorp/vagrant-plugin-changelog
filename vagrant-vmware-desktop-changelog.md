@@ -1,3 +1,7 @@
+## 2.1.0
+
+- Support for Vagrant 2.2.8
+
 ## 2.0.3
 
 - Fix synced folder UID and GID parsing
