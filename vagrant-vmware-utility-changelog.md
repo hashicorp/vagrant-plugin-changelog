@@ -1,3 +1,12 @@
+## 1.0.9
+
+- Fix service setup on macOS
+
+## 1.0.8
+
+- Fix flag handling
+- Add notarization to dmg
+
 ## 1.0.7
 
 - Update launchd configuration to listen on localhost only
