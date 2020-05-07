@@ -1,7 +1,7 @@
-## 1.2.0 (Unreleased)
+## 1.1.10
 
-  - Remove virtualbox public_network capability to prevent clobbering
-      (mitchellh/vagrant#6729).
+  - Fix ngrok end point detection
+  - Remove classic driver
 
 ## 1.1.0 (May 29, 2014)
 
