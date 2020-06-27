@@ -1,3 +1,9 @@
+## 2.1.1
+
+- Do not include base_mac value when packaging box
+- Correct MAC addresses with invalid format (missing `:` characters)
+- Halt guest immediately when destroying
+
 ## 2.1.0
 
 - Support for Vagrant 2.2.8
