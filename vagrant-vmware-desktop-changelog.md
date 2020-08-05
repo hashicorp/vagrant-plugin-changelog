@@ -1,3 +1,8 @@
+## 2.1.2
+
+- Log warning on MAC OUI mismatches 
+- Driver support for vmrest utility 
+
 ## 2.1.1
 
 - Do not include base_mac value when packaging box
