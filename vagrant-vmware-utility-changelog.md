@@ -1,3 +1,7 @@
+## 1.0.10
+
+- Utilize vmrest service when available
+
 ## 1.0.9
 
 - Fix service setup on macOS
