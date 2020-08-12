@@ -1,3 +1,7 @@
+## 1.0.11
+
+- Fix vmrest configuration setup on Windows
+
 ## 1.0.10
 
 - Utilize vmrest service when available
