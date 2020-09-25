@@ -1,3 +1,9 @@
+## 1.0.12
+
+- Add VMware license detection
+- Disable advanced networking on standard VMware license
+- Properly recover from forward conflicts in persisted nat.json
+
 ## 1.0.11
 
 - Fix vmrest configuration setup on Windows
