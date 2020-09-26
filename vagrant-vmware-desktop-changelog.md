@@ -1,7 +1,12 @@
+## 2.1.3
+
+- Disable NAT device detection for standard license installations
+- Automatically disable linked clones for player
+
 ## 2.1.2
 
-- Log warning on MAC OUI mismatches 
-- Driver support for vmrest utility 
+- Log warning on MAC OUI mismatches
+- Driver support for vmrest utility
 
 ## 2.1.1
 
