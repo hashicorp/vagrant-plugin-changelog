@@ -1,3 +1,8 @@
+## 2.1.4
+
+- Prefer default vmnet8 for NAT device when multiple matches detected
+- Include provider option `nat_device` to force specific device
+
 ## 2.1.3
 
 - Disable NAT device detection for standard license installations
