@@ -1,3 +1,10 @@
+## 1.0.13
+
+- Update license detection to handle combined license format
+- Add `-license-override` option to service to force specific license type
+- Add extra validation for working vmrest during process initialization
+- Add support for configuring process via configuration file
+
 ## 1.0.12
 
 - Add VMware license detection
