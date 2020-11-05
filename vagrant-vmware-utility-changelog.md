@@ -1,3 +1,8 @@
+## 1.0.14
+
+- Ensure vmrest process is reaped to prevent zombie processes
+- Updates for changes introduced in macOS Big Sur
+
 ## 1.0.13
 
 - Update license detection to handle combined license format
