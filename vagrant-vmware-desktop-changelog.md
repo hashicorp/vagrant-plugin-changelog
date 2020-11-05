@@ -1,3 +1,8 @@
+## 2.1.5
+
+- Enable support for experimental disks support
+- Fix DHCP reservation requests
+
 ## 2.1.4
 
 - Prefer default vmnet8 for NAT device when multiple matches detected
