@@ -1,3 +1,8 @@
+## 1.0.15
+
+- Fix address detection issue on macOS pre Big Sur versions
+- Allow service initialization when networking file is not present
+
 ## 1.0.14
 
 - Ensure vmrest process is reaped to prevent zombie processes
