@@ -1,3 +1,8 @@
+## 1.0.16
+
+- Resolve path lookup issues on Workstation
+- Track service and configuration files within package metadata
+
 ## 1.0.15
 
 - Fix address detection issue on macOS pre Big Sur versions
