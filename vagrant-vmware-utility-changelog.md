@@ -1,3 +1,7 @@
+## 1.0.17
+
+- Only use vmrest when running on macOS Big Sur or greater
+
 ## 1.0.16
 
 - Resolve path lookup issues on Workstation
