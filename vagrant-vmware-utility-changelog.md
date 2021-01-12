@@ -1,3 +1,9 @@
+## 1.0.18
+
+- Provide port forwarding functionality on Big Sur
+- Validate network options and force error on Big Sur when unsupported
+- Return unsupported error when attempting DHCP reservations on Big Sur
+
 ## 1.0.17
 
 - Only use vmrest when running on macOS Big Sur or greater
