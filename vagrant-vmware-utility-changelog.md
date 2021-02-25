@@ -1,3 +1,8 @@
+## 1.0.19
+
+- Fix crash when enabling internal port forwarding service on downgraded driver
+- Support internal port forwarding service on all drivers
+
 ## 1.0.18
 
 - Provide port forwarding functionality on Big Sur
