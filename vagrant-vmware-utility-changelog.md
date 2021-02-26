@@ -1,3 +1,7 @@
+## 1.0.20
+
+- Fix debian packaging to prevent installation error on post install script
+
 ## 1.0.19
 
 - Fix crash when enabling internal port forwarding service on downgraded driver
